@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">🎮 PIXEL Engine</h1>
   <p align="center">
-    A lightweight 2D game engine built from scratch in C++ with OpenGL
+    **A lightweight 2D game engine built from scratch in C++ with OpenGL**
     <br/>
     <img src="https://img.shields.io/badge/status-Work%20In%20Progress-orange?style=for-the-badge" alt="Status: WIP"/>
     <img src="https://img.shields.io/badge/c%2B%2B-17-blue?style=for-the-badge&logo=cplusplus" alt="C++17"/>
