@@ -89,20 +89,6 @@ cmake --build build
 
 > 💡 You only need to run the configure step once. After that, just use `cmake --build build` — it will detect changed files and recompile only what's needed.
 
-## 🗺️ Roadmap
-
-- [x] Project structure & CMake build system
-- [x] Vendor library integration (GLFW, GLAD, GLM, miniaudio, stb)
-- [ ] Core engine loop & window management
-- [ ] 2D sprite renderer
-- [ ] Entity Component System
-- [ ] Input handling
-- [ ] Audio system
-- [ ] 2D physics & collision
-- [ ] 2D lighting
-- [ ] Asset manager
-- [ ] Scene system
-- [ ] Debug overlay
 
 ## 📄 License
 
